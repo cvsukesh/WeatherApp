@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherJPMC</string>
+
+    <string name="network_error_message">Please check your internet connectivity</string>
+</resources>
